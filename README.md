@@ -1,14 +1,19 @@
 # React-Tinder
-This is a frontend website application for Tinder built on React and firebase database.
+   This is a frontend website application for Tinder built on React and firebase database.
 
 **Code Output:**
 <img src="/tinder_1.png"/>
+
 <img src="/tinder_2.png"/>
+
 <img src="/tinder_3.png"/>
+
 <img src="/tinder_4.png"/>
+
 <img src="/tinder_5.png"/>
 
-### This app is currently just a basic frontend web-app .Have to add functionalities to all the buttons present on home screen. Also a proper database is to be attached to the matching functionality of users.
+
+ > ###  This app is currently just a basic frontend web-app .Have to add functionalities to all the buttons present on home screen.<br>Also a proper database is to be attached to the matching functionality of users.
 
 ### `npm install:`
 
@@ -19,4 +24,6 @@ This is a frontend website application for Tinder built on React and firebase da
     "react-dom": "^17.0.1",
     "react-router-dom": "^5.2.0",
     "react-tinder-card": "^1.3.1"
-  `
+ 
+## `Checkout the code for the React-Tinder:`
+[](https://github.com/AyushDubey-maker/React-Tinder/tree/master/tinder-clone/src)

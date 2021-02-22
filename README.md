@@ -26,4 +26,4 @@
     "react-tinder-card": "^1.3.1"
  
 ## `Checkout the code for the React-Tinder:`
-[](https://github.com/AyushDubey-maker/React-Tinder/tree/master/tinder-clone/src)
+(https://github.com/AyushDubey-maker/React-Tinder/tree/master/tinder-clone/src)
